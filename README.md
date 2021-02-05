@@ -1,2 +1,2 @@
-# s-arental
+# syarental
 S&amp;A Rental
