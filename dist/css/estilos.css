@@ -642,6 +642,18 @@ body {
 
 /* responsive */
 
+@media all and (max-width: 445px) {
+
+    .gallery-section .gallery-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .gallery-section .gallery-container .gallery-card {
+        height: 200px;
+        
+    }
+}
+
 @media all and (max-width: 576px) {
     header .video-container .video-wrapper video {
         padding-top: 55px;
