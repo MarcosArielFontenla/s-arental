@@ -379,7 +379,7 @@ body {
 /*Testimonial seccion */
 .testimonial-section {
     padding: 80px 0 80px;
-    background-image: url('/images/mitsu17.jpeg');
+    background-image: url('/images/mitsu20.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -650,7 +650,7 @@ body {
     
     .gallery-section .gallery-container .gallery-card {
         height: 200px;
-        
+
     }
 }
 
